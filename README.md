@@ -1,5 +1,8 @@
 # Hey, I'm Toba!
 
+
+I'm a student, web developer and designer, bioinformatics enthusiast, and avid learner!
+
 <!--
 **Toba-O/Toba-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
