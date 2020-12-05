@@ -1,8 +1,16 @@
 # Hey, I'm Toba!
 
+## [![header](https://i.imgur.com/bA4duaZ.png](https://tobaojo.com)
+
+<p align="center">
+<a href="https://tobaojo.com"><img height="30" src="https://i.imgur.com/6NGCVuk.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/toba-ojo/"><img height="30" src="https://i.imgur.com/mg7Rj32.png"></a>
+</p>
 
 I'm a student, web developer and designer, bioinformatics enthusiast, and avid learner!
 I work with a variety of technologies and languages, such as HTML, CSS, TailwindCSS, JavaScript, ReactJS, Java, Python, and R!
+
+
 <!--
 **Toba-O/Toba-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
