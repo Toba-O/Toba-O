@@ -4,9 +4,9 @@
 ## [![header](https://i.imgur.com/p9CfzBE.png)](https://tobaojo.com) 
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://tobaojo.com"> <img src="https://i.imgur.com/bA4duaZ.png"></a>&nbsp;&nbsp;
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://tobaojo.com"><img height="30" src="https://i.imgur.com/6NGCVuk.png"></a>&nbsp;&nbsp;
