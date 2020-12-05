@@ -1,6 +1,6 @@
 # Hey, I'm Toba!
 
-## [![header](https://i.imgur.com/bA4duaZ.png](https://tobaojo.com)
+## [![header](https://i.imgur.com/bA4duaZ.png)](https://tobaojo.com)
 
 <p align="center">
 <a href="https://tobaojo.com"><img height="30" src="https://i.imgur.com/6NGCVuk.png"></a>&nbsp;&nbsp;
