@@ -14,7 +14,7 @@
 </p>
 -->
 
-<img src="https://i.imgur.com/p9CfzBE.png" width="857" height="350">
+<img src="https://i.imgur.com/p9CfzBE.png" width="857" height="250">
 
 
 I'm a student, web developer and designer, bioinformatics enthusiast, and avid learner!
