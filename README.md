@@ -3,6 +3,7 @@
 
 I'm a student, web developer and designer, bioinformatics enthusiast, and avid learner!
 
+I work with a variety of technologies and languages, such as HTML5, CSS3, Bootstrap, TailwindCSS, JavaScript, ReactJS, Java, Python, and R!,
 <!--
 **Toba-O/Toba-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
