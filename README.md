@@ -14,5 +14,5 @@
 I'm a student, full stack web developer and designer, bioinformatics enthusiast, and avid learner!
 I work with a variety of technologies and languages, such as HTML, CSS, Bootstrap, TailwindCSS, JavaScript, ReactJS, Java, Python, and R!
 
-I’m currently working on EarlyBird, an early onset lung cancer detection software, alongside a few web development projects and frequent contributions to open source project. I’m also learning full stack web development and design alongside bioinformatics/computational biology
+I’m currently working on EarlyBird, an early onset lung cancer detection software, alongside a few web development projects and frequent contributions to open source projects. I’m also learning full stack web development and design alongside bioinformatics/computational biology
 
