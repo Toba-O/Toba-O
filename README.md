@@ -17,4 +17,4 @@ I work with a variety of technologies and languages, such as HTML, CSS, Bootstra
 I’m currently working on EarlyBird, an early onset lung cancer detection software, alongside a few web development projects and frequent contributions to open source projects. I’m also learning full stack web development and design alongside bioinformatics/computational biology
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toba-O)](https://github.com/anuraghazra/github-readme-stats)
+
