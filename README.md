@@ -18,4 +18,5 @@ I’m currently working on EarlyBird, an early onset lung cancer detection softw
 
 <br>
 - From the start of 2021, I had a goal to make a contribution every day. <em>I believe it's going well</em>
+- https://i.imgur.com/GfrSzHD.png
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=Toba-O&layout=compact -->
