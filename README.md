@@ -18,5 +18,6 @@ I’m currently working on EarlyBird, an early onset lung cancer detection softw
 
 <br>
 - From the start of 2021, I had a goal to make a contribution every day. <em>I believe it's going well</em>
+
 * **EDIT April 19** For some reason, Github is being a little odd and displaying a hole on January 12. However, there were 3 contributions made that day https://i.imgur.com/GfrSzHD.png
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=Toba-O&layout=compact -->
