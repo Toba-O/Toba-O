@@ -17,4 +17,5 @@ I work with a variety of technologies and languages, such as HTML, CSS, Bootstra
 I’m currently working on EarlyBird, an early onset lung cancer detection software, alongside a few web development projects and frequent contributions to open source projects. I’m also learning full stack web development and design alongside bioinformatics/computational biology
 
 <br>
+- From the start of 2021, I had a goal to make a contribution every day. <em>I believe it's going well</em>
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=Toba-O&layout=compact -->
