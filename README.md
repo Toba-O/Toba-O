@@ -24,5 +24,5 @@ From the start of 2021, I had a goal to make a contribution every day. So far, I
   <summary>Supporting image</summary>
   <img src="https://i.imgur.com/GfrSzHD.png" />
 </details>
-<em>The streak continues</em>
+
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=Toba-O&layout=compact -->
