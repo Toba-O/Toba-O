@@ -17,7 +17,7 @@ I work with a variety of technologies and languages, such as HTML, CSS, Bootstra
 I’m currently working on EarlyBird, an early onset lung cancer detection software, alongside a few web development projects and frequent contributions to open source projects. I’m also learning full stack web development and design alongside bioinformatics/computational biology
 
 <br>
-From the start of 2021, I had a goal to make a contribution every day. So far, I've missed ``` 1 ```
+From the start of 2021, I had a goal to make a contribution every day. So far, I've missed ```1```
 
 * **EDIT April 19:** For some reason, Github is being a little odd and displaying a hole on January 12. However, rest assured, there were 3 contributions made that day 
 * <details>
