@@ -10,7 +10,7 @@
 </p>
 
 
-I’m currently working on EarlyBird, an early onset lung cancer detection software as a proof-of-concept project, alongside a few web development projects and frequent contributions to open source projects. I’m also learning full stack web development and design alongside bioinformatics/computational biology
+I’m currently working on EarlyBird, an early onset lung cancer detection software (as a proof-of-concept project*), alongside a few web development projects and frequent contributions to open source projects. I’m also learning full stack web development and design alongside bioinformatics/computational biology
 
 <br>
 From the start of 2021, I had a goal to make a contribution every day. So far, I've missed: <b> 3 </b>
