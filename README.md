@@ -1,7 +1,7 @@
 # Hey, I'm 'Toba 👋🏽
 
 
-<!-- ## [![header](https://i.imgur.com/DVhff67.png)](https://tobaojo.com) --> 
+<!-- ## [![header](https://i.imgur.com/DVhff67.png)](https://tobaojo.com) 
 ## [![header](https://i.imgur.com/SMfYRzp.png)](https://www.olutobaojo.com) 
 
 <p align="center">
@@ -16,3 +16,4 @@ I’m currently working on EarlyBird as a proof-of-concept project, alongside a 
 <!-- From the start of 2021, I had a goal to make a contribution every day. So far, I've missed: <strong> 4 </strong> -->
 
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=Toba-O&layout=compact -->
+-->
